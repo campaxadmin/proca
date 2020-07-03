@@ -1,8 +1,8 @@
 {
   "consent": {
-    "intro":"Email-Updates zu dieser Kampagne und weiteren wichtigen Kampagnen von {{name}} abonnieren",
-    "opt-in":"Ja! Sagt mir, ob diese Kampagne gewinnt und wie ich bei anderen relevanten Kampagnen mithelfen kann.",
-    "opt-out": "Nein. Ich möchte nichts über den Fortschritt dieser Kampagne",
+    "intro":"Email-Updates zu dieser und weiteren Kampagnen von {{name}} abonnieren",
+    "opt-in":"Ja! Sagt mir, ob diese Kampagne erfolgreich ist und wie ich bei anderen Kampagnen mithelfen kann.",
+    "opt-out": "Nein. Ich möchte nicht über den Fortschritt dieser Kampagne informiert werden",
     "processing": "Deine Daten werden sicher und verschlüsselt übertragen. Mit Deiner Eingabe akzeptierst Du unsere Bestimmungen zum Datenschutz"
   },
 "progress":"{{count}} Unterschriften. Ziel: {{goal}}",
@@ -21,7 +21,7 @@
     "City": "City",
     "Birthdate":"Geburtstag",
     "Country": "Land",
-    "Comment": "Ihre Kommentare",
+    "Comment": "Dein Kommentar",
     "Thanks!": "Thanks!",
     "Legal": "Legal",
     "Privacy": "Privacy",
